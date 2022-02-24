@@ -1,0 +1,35 @@
+/*Pics card*/
+
+.card{
+	padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 6px;
+	background-color: #E0C7AD;
+    margin-bottom: 70px;
+    margin-top: -10px;
+    box-shadow: 0px 2px 0px rgba(0 0 0 / 30%);
+}
+
+.card img{
+	width: 200px;
+    border-radius: 6px;
+}
+
+/*Text card*/
+
+.card1{
+	padding: 10px;
+	display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 6px;
+    margin-top: 10px;
+    background-color: #E0C7AD;
+}
+
+.card1 h5{
+	font-size: 24px;
+	color: white;
+}
